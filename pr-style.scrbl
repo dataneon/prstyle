@@ -41,7 +41,7 @@ We use diacritics.
 
 
 @subsection{Non-English words}
-If non-English words are commonly used in English such as “status quo,” “et cetera,” or “Gesundheit,” they does not need to be italicized. When they are less common, like ``@italic{Selbstaufhebung}'' or ``@italic{ad calendas graecas,}'' the non-English words should be italicized. If the non-English words make up a proper noun, they do not need to be italicized (e.g., “Sozialdemokratische Partei Deutschlands”).
+If non-English words are commonly used in English such as “status quo,” “et cetera,” or “Gesundheit,” they do not need to be italicized. When they are less common, like ``@italic{Selbstaufhebung}'' or ``@italic{ad calendas graecas,}'' the non-English words should be italicized. If the non-English words make up a proper noun, they do not need to be italicized (e.g., “Sozialdemokratische Partei Deutschlands”).
 
 
 @subsection{Superscripting}
